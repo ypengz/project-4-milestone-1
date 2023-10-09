@@ -12,6 +12,6 @@ This is the first part to your Project 4 set of assignments. This is an independ
 4. Change the random seed on line 7 of `main.py` to your UF-ID.
 5. Run the program and save a screenshot of the image that appears.
 6. Commit and push your change made to your Repo.
-7. Add your TA/PM as a contributor on Github to your Repo.
-8. Submit your saved image to the Canvas assignment.
+7. Take and submit a screenshot of your commit history.
+8. Submit your screenshot of the Pygame window to the Canvas assignment.
 9. Add a comment in the canvas assignment with a link to your Repo.
